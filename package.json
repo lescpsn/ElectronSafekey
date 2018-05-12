@@ -1,6 +1,6 @@
 {
     "name": "ElectronSafekey",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A minimal Electron application",
     "main": "main.js",
     "scripts": {
@@ -9,10 +9,10 @@
     "repository": "https://github.com/lescpsn/ElectronSafekey",
     "keywords": [
       "Electron",
-      "quick",
-      "start",
-      "tutorial",
-      "demo"
+      "Safekey",
+      "GM",
+      "SM2",
+      "SM4"
     ],
     "author": "lescpsn",
     "license": "CC0-1.0",

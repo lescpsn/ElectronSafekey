@@ -19,13 +19,14 @@ cnpm与npm两命令一样了
 ## 安装electron环境
 ```
 方法1: 工程内部独立安装electron
-    npm install
+    cd Client; npm install
 
 方法2: 系统全局安装electron
     cnpm install -g electron
 ```
 
 ## 运行工程
+### 客户端
 ```
-npm start
+cd Client; npm start
 ```
